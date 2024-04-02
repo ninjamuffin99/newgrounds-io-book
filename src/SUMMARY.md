@@ -26,4 +26,7 @@
     - [Implementing Encryption](./newgrounds-io-encryption/implementing-encryption.md)
 - [Newgrounds Passport](./newgrounds-passport/newgrounds-passport.md)
     - [Signing in from Newgrounds.io](./newgrounds-passport/signing-in-from-newgrounds-io.md)
-- [Downloads](./downloads/downloads.md)
+
+---
+
+[Downloads](./downloads/downloads.md)

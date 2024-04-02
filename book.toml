@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "newgrounds.io"
+
+[output.html.playground]
+editable = true
