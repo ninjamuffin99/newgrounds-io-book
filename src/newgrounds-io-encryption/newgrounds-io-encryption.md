@@ -1,0 +1,1 @@
+# Newgrounds.io Encryption
