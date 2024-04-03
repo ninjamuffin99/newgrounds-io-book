@@ -1,6 +1,7 @@
 # Summary
 
 [Introduction](./introduction/introduction.md)
+    - [About This Book](./introduction/about.md)
     - [Additional Resources](./introduction/additional-resources.md)
 # Getting Started
 - [Create a Game Project on Newgrounds.com](./getting_started/creating_a_game_project.md)
