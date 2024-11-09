@@ -28,6 +28,21 @@
 - [Newgrounds Passport](./newgrounds-passport/newgrounds-passport.md)
     - [Signing in from Newgrounds.io](./newgrounds-passport/signing-in-from-newgrounds-io.md)
 
+# Newgrounds.io Object Models
+- [Newgrounds.io Object Models](./newgrounds-io-object-models/newgrounds-io-object-models.md)
+    - [Debug](./newgrounds-io-object-models/debug.md)
+    - [Error](./newgrounds-io-object-models/error.md)
+    - [Execute](./newgrounds-io-object-models/execute.md)
+    - [Medal](./newgrounds-io-object-models/medal.md)
+    - [Request](./newgrounds-io-object-models/request.md)
+    - [Result](./newgrounds-io-object-models/result.md)
+    - [SaveSlot](./newgrounds-io-object-models/saveslot.md)
+    - [Score](./newgrounds-io-object-models/score.md)
+    - [ScoreBoard](./newgrounds-io-object-models/scoreboard.md)
+    - [Session](./newgrounds-io-object-models/session.md)
+    - [User](./newgrounds-io-object-models/user.md)
+    - [UserIcons](./newgrounds-io-object-models/usericons.md)
+
 ---
 
 [Downloads](./downloads/downloads.md)
